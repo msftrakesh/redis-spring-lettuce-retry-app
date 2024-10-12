@@ -1,0 +1,6 @@
+spring:
+  redis:
+    host: "rakeshredis.redis.cache.windows.net"
+    port: 6380
+    password: "rBz6YKXNvRUrY7dwy6fmDucJN17ZkgUmGAzCaIIMKCM="
+    ssl: true
